@@ -75,6 +75,9 @@ UNLICENSED
 @xema/team-monitor-panel
 UNLICENSED
 
+@xema/team-monitor-table-panel
+UNLICENSED
+
 axios
 MIT
 Copyright (c) 2014-present Matt Zabriskie
