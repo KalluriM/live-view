@@ -94,6 +94,9 @@ MIT
 @microsoft/signalr
 Apache-2.0
 
+@xema/dialer-monitor-table-panel
+UNLICENSED
+
 @xema/queue-monitor-panel
 UNLICENSED
 
